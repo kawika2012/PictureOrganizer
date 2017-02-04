@@ -8,5 +8,9 @@ namespace PictureOrganizer1
 {
     class Util
     {
+        public string st { set; get; }
+        public string thing { set; get; }
+
+    
     }
 }
